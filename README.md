@@ -1,0 +1,2 @@
+# EarthLivesharp_ubuntu
+跟据EarthLivesharp更改的ubuntu使用的桌面壁纸更换软件
